@@ -1,0 +1,15 @@
+body {
+    text-align: center;
+    background-color: antiquewhite;
+  }
+  button {
+    border: 2px solid;
+    cursor: pointer;
+    border-radius: 0.5rem;
+  }
+  p {
+    font-weight: 600;
+  }
+  input {
+    font-size: large;
+  }
